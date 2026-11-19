@@ -1,6 +1,6 @@
 # Monorepo_turma_2
 
-Exercício de colaboração: cada estagiário cria uma página pessoal inspirada na referência `torres/`.
+Exercício de colaboração: cada dev. cria uma página pessoal inspirada na referência `torres/`.
 
 ## Pastas
 
@@ -13,7 +13,7 @@ Monorepo_turma_2/
 └── <seu-nome>/
 ```
 
-- `modelo/`: arquivos iniciais em HTML e CSS.
+- `modelo/`: arquivos iniciais em HTML, CSS e assets/.
 - `torres/`: exemplo pronto, incluindo uma imagem em `assets/`.
 - `<seu-nome>/`: pasta que cada estagiário cria na raiz, nunca dentro de `modelo/`.
 
