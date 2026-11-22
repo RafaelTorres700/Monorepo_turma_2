@@ -44,4 +44,4 @@ git commit -m "Adiciona página pessoal de Seu Nome"
 git push -u origin seu-nome
 ```
 
-Abra um Pull Request para `main` e peça a revisão de um colega. Não altere a pasta de outra pessoa nem envie alterações diretamente para `main`.
+Abra um Pull Request para `main` e peça a revisão do coordenador do projeto. Não altere a pasta de outra pessoa nem envie alterações diretamente para `main`.
